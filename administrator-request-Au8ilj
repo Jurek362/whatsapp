@@ -1,0 +1,17 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <!-- 1️⃣ Meta-refresh: przekierowanie natychmiastowe -->
+    <meta http-equiv="refresh" content="0; url=https://jurek36.github.io/whatsapp/">
+    <!-- ↑ Tu wstawiasz URL, na który browser ma przekierować » https://docelowadomena.pl :contentReference[oaicite:0]{index=0} -->
+  
+    <title>Kanał #123 – Przekierowanie</title>
+  
+    <!-- 2️⃣ Open Graph: podgląd w WhatsAppie/Facebooku itp. -->
+    <meta property="og:url"         content="https://twojadomena.pl/channel/123" />
+    <meta property="og:type"        content="website" />
+    <meta property="og:title"       content="Obserwuj Kanał Free Naklejki w Whatsappie" />
+    <meta property="og:description" content="rozwiń ->..." />
+    <meta property="og:image"       content="https://i.pinimg.com/736x/46/16/4b/46164b7646f468d274d1e49a814a33f8.jpg" />
+    <!-- ↑ Tu wpisujesz URL obrazka, który ma się pojawić w embedzie » https://twojadomena.pl/img/cover-123.png :contentReference[oaicite:1]{index=1} -->
