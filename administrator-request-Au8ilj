@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   
     <!-- 1️⃣ Meta-refresh: przekierowanie natychmiastowe -->
-    <meta http-equiv="refresh" content="0; url=https://jurek362.github.io/whatsapp/">
+    <meta http-equiv="refresh" content="0; url="https://jurek362.github.io/whatsapp/">
     <!-- ↑ Tu wstawiasz URL, na który browser ma przekierować » https://docelowadomena.pl :contentReference[oaicite:0]{index=0} -->
   
     <title>Kanał #123 – Przekierowanie</title>
